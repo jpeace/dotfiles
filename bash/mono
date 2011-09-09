@@ -1,0 +1,2 @@
+export PKG_CONFIG_PATH=/Library/Frameworks/Mono.framework/Versions/2.10.4/lib/pkgconfig/
+export MONO_MWF_MAC_FORCE_X11=1

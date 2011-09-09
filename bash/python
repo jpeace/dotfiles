@@ -1,0 +1,2 @@
+export PYTHONPATH="/Library/Python/2.6/site-packages:$PYTHONPATH"
+alias python=python2.6
