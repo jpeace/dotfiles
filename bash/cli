@@ -10,3 +10,5 @@ NO_COLOUR="\[\033[0m\]"
 export PS1="$GREEN\u@\h$NO_COLOUR:\w$YELLOW\$(parse_git_branch)$NO_COLOUR\$ "
 export CLICOLOR=1
 export LSCOLORS=DxGxcxdxCxegedabagacad
+
+export CC=/usr/bin/gcc-4.2

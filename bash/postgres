@@ -1,6 +1,0 @@
-export PATH=/Library/PostgreSQL/9.0/bin:$PATH
-export PATH=/Library/PostgreSQL/9.0/lib:$PATH
-export PATH=/Library/PostgreSQL/9.0/include:$PATH
-export PATH=/Library/PostgreSQL/9.0/include/libpq:$PATH
-
-export LD_LIBRARY_PATH=/Library/PostgreSQL/9.0/lib
