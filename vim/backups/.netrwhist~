@@ -1,4 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_cnt =5
 let g:netrw_dirhist_1='/Users/jarrod/.rvm/gems/ruby-1.9.3-p0@unshredder/gems/rmagick-2.13.1/ext/RMagick'
 let g:netrw_dirhist_2='/Users/jarrod/development/projects/dotfiles/vim'
+let g:netrw_dirhist_3='/Users/jarrod/development/spikes/rails/vimtest'
+let g:netrw_dirhist_4='/Users/jarrod/development/projects/open-labs/cron-job'
+let g:netrw_dirhist_5='/Users/jarrod/development/projects/gems/template/lib/gem_name'

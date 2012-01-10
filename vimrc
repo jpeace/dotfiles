@@ -34,3 +34,5 @@ map <silent> <m-n> :cn <cr>
   
 " Change which file opens after executing :Rails command
 let g:rails_default_file='config/database.yml'
+
+let $JS_CMD='node'

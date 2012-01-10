@@ -1,3 +1,4 @@
+export PATH=/usr/local/sbin:$PATH
 export PATH=/usr/local/scala/2.9.0.1/bin:$PATH
 export PATH=/usr/local/groovy/1.8.1/bin:$PATH
 export PATH=/usr/local/gant/1.9.6/bin:$PATH
