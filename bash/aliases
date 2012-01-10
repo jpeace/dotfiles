@@ -2,4 +2,4 @@ alias vt="vim -c 'NERDTree'"
 alias be="bundle exec"
 alias ber="bundle exec rake"
 
-rnew() { rails new $@ --database=postgresql --skip-bundle; } 
+rnew() { rails new $@ --git --database=postgresql --skip-bundle; } 
