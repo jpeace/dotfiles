@@ -3,3 +3,5 @@ alias be="bundle exec"
 alias ber="bundle exec rake"
 
 rnew() { rails new $@ --git --database=postgresql --skip-bundle; } 
+
+alias sudo="sudo env PATH=$PATH"
