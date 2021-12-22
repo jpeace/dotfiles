@@ -1,6 +1,7 @@
 alias vt="vim -c 'NERDTree'"
 alias be="bundle exec"
 alias ber="bundle exec rake"
+alias dkc="docker-compose"
 
 rnew() { rails new $@ --git --database=postgresql --skip-bundle; } 
 
